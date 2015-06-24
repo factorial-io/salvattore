@@ -1,8 +1,8 @@
 {
   "name": "salvattore",
-  "repo": "factorial-io/salvattore",
+  "repository": "factorial-io/salvattore",
   "description": "A jQuery Masonry alternative with CSS-driven configuration",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "scripts": ["dist/salvattore.js"],
   "license": "MIT",
   "keywords": [
